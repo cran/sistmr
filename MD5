@@ -1,0 +1,15 @@
+8f2c01f73770b9845b9066d35c37c70f *DESCRIPTION
+6ce0dcbb7e9f5c714ec77c929030d836 *LICENSE
+947576cab8ab47f888aedcd4342e5426 *NAMESPACE
+0b3d5d7964631141c33003e332c9dd20 *NEWS.md
+bf1526e836bcee756e1124fd15c640e2 *R/BlandAltmanPlot.R
+83a5a0842b7f3f95cdfcd026991a5398 *R/multipleBoxplot.R
+1d03863d5fe0bc6295378bfed542c502 *R/normalize.R
+0ee8b4cde2ab7ebca00cde9bb7c5084d *R/sistmr-package.r
+135ac57b243c03e70820c08fb2c7dee0 *R/volcanoPlot.R
+d0786ef30305eb6598026e900d92a8fa *README.md
+40bef71a13e67a2f4308a6136d12cf59 *man/BlandAltmanPlot.Rd
+5e526dfdf56c0cceea1c74c261704c88 *man/multipleBoxplots.Rd
+895b5e3680d3dd32901f2f0d0e28b0b3 *man/normal_distribution.Rd
+8ec4a476633c338d6f8605b0f59252cc *man/sistmr.Rd
+a98d62a579ebe5dce6948241d4438ea3 *man/volcanoPlot.Rd
